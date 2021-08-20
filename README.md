@@ -1,5 +1,5 @@
 
-:wave: Hello My name is Sangdon, I am a developer working at ![Intel](https://img.shields.io/badge/-Intel%20Korea-0071C5?style=flat-square&logo=intel&logoColor=white)
+:wave: Hello My name is Sangdon!
 
  My major is **statistics:books:**, and I have been studying **data science:computer:** since 2018. I have project experience using **R(My most confident language)**, python languages. I am very interested in **machine learning**. I am especially interested in graph data analysis.
 
