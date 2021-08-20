@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Sangdon GitHub stats](https://github-readme-stats.vercel.app/api?username=SANGDONKIM&show_icons=true&theme=radical)
-[![Sangdon GitHub stats](https://github-readme-stats.vercel.app/api?username=SANGDONKIM)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://img.shields.io/badge/#276DC3-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
