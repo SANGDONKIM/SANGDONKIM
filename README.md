@@ -11,7 +11,7 @@
 | **:mortar_board: Education** | 2020. 3 ~ 2022. 2 | Master Degree in Statistics | **University of Seoul** |
 
 ### :cyclone: Languages
-![R](https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=R&logoColor=white) ![python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=python&logoColor=white)  ![python](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=MySQL&logoColor=white) ![MySQL](https://img.shields.io/badge/Kotlin-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=kotlin&logoColor=white)
+![R](https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=R&logoColor=white) ![python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=python&logoColor=white)  ![python](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=MySQL&logoColor=white) 
 
 
 ### :mailbox_with_mail: Contacts
