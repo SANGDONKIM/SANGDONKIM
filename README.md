@@ -1,5 +1,7 @@
 ### Hi there 👋
 <a href="https://dondon-blog.netlify.app" target="_blank"><img src="https://img.shields.io/badge/BLOG-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://www.linkedin.com/in/%EC%83%81%EB%8F%88-%EA%B9%80-b89985199/" target="_blank"><img src="https://img.shields.io/badge/SANGDONKIM-배경색?style=뱃지모양&logo=#0A66C2&logoColor=로고색상"/></a>
+
 <!--
 **SANGDONKIM/SANGDONKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
